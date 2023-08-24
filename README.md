@@ -108,7 +108,7 @@ Super-resolution has applications in various domains such as surveillance, medic
 - Reflash Dropout in Image Super-Resolution<br>
   Xiangtao Kong, Xina Liu, Jinjin Gu, Yu Qiao, Chao Dong<br>
   Accepted at CVPR'22<br>
-  :scroll:[`paper`](https://arxiv.org/abs/2112.12089) :computer:[`code`](http://xpixel.group/None%20%20https://github.com/Xiangtaokong/Reflash-Dropout-in-Image-Super-Resolution)
+  :scroll:[`paper`](https://arxiv.org/abs/2112.12089)
 
 - Suppressing Model Overfitting for Image Super-Resolution Networks<br>
   Ruicheng Feng, Jinjin Gu, Yu Qiao, Chao Dong<br>
