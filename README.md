@@ -193,8 +193,8 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 # Projects in Open-XSource
 
-- [X-Super Resolution](https://github.com/Open-XSource/X-Super-Resolution): Algorithms in the realm of image super-resolution.
-- [X-Image Processing](https://github.com/Open-XSource/X-Image-Processing): Algorithms in the realm of image restoration and enhancement.
-- [X-Video Processing](https://github.com/Open-XSource/X-Video-Processing): Algorithms for processing videos.
-- [X-Low level Interpretation](https://github.com/Open-XSource/X-Low-level-Interpretation): Algorithms for interpreting the principle of neural networks in low-level vision field.
-- [X-Evaluation and Benchmark](https://github.com/Open-XSource/X-Evaluation-and-Benchmark): Datasets for training or evaluating state-of-the-art algorithms.
+- [X-Super Resolution](https://github.com/XPixelGroup/X-Super-Resolution): Algorithms in the realm of image super-resolution.
+- [X-Image Processing](https://github.com/XPixelGroup/X-Image-Processing): Algorithms in the realm of image restoration and enhancement.
+- [X-Video Processing](https://github.com/XPixelGroup/X-Video-Processing): Algorithms for processing videos.
+- [X-Low level Interpretation](https://github.com/XPixelGroup/X-Low-level-Interpretation): Algorithms for interpreting the principle of neural networks in low-level vision field.
+- [X-Evaluation and Benchmark](https://github.com/XPixelGroup/X-Evaluation-and-Benchmark): Datasets for training or evaluating state-of-the-art algorithms.
