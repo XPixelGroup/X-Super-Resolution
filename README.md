@@ -110,11 +110,6 @@ Super-resolution has applications in various domains such as surveillance, medic
   Accepted at CVPR'22<br>
   :scroll:[`paper`](https://arxiv.org/abs/2112.12089) :computer:[`code`](http://xpixel.group/None%20%20https://github.com/Xiangtaokong/Reflash-Dropout-in-Image-Super-Resolution)
 
-- Finding Discriminative Filters for Specific Degradations in Blind Super-Resolution<br>
-  Liangbin Xie, Xintao Wang, Chao Dong, Zhongang Qi, Ying Shan<br>
-  Accepted at NIPS'21 (spotlight)<br>
-  :scroll:[`paper`](https://arxiv.org/abs/2108.01070) :computer:[`code`](https://github.com/TencentARC/FAIG)
-
 - Suppressing Model Overfitting for Image Super-Resolution Networks<br>
   Ruicheng Feng, Jinjin Gu, Yu Qiao, Chao Dong<br>
   Accepted at CVPRW'19<br>
