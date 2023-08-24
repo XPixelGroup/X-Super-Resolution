@@ -80,6 +80,11 @@ Super-resolution has applications in various domains such as surveillance, medic
   Accepted at TPAMI'22<br>
   :scroll:[`paper`](https://arxiv.org/abs/2107.03055)
 
+- Crafting Training Degradation Distribution for the Accuracy-Generalization Trade-off in Real-World Super-Resolution<br>
+  Ruofan Zhang, Jinjin Gu, Haoyu Chen, Chao Dong, Yulun Zhang, Wenming Yang<br>
+  Accepted at ICML'23<br>
+  :scroll:[`paper`](https://arxiv.org/abs/2305.18107)
+
 - DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models<br>
   Liangbin Xie, Xintao Wang, Xiangyu Chen, Gen Li, Ying Shan, Jiantao Zhou, Chao Dong<br>
   Accepted at ICML'23<br>
