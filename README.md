@@ -13,7 +13,7 @@
 
 <div align="center">
 
-English | [简体中文](README_zh-CN.md)
+<!-- English | [简体中文](README_zh-CN.md) -->
 
 </div>
 
@@ -85,11 +85,6 @@ Super-resolution has applications in various domains such as surveillance, medic
   Accepted at ICML'23<br>
   :scroll:[`paper`](https://arxiv.org/abs/2307.02457) :computer:[`code`](https://github.com/TencentARC/DeSRA)
 
-- Activating More Pixels in Image Super-Resolution Transformer<br>
-  Xiangyu Chen, Xintao Wang, Jiantao Zhou, Yu Qiao, Chao Dong<br>
-  Accepted at CVPR'23<br>
-  :scroll:[`paper`](https://arxiv.org/abs/2205.04437) :computer:[`code`](https://github.com/chxy95/HAT)
-
 - OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer<br>
   Fanghua Yu, Xintao Wang, Mingdeng Cao, Gen Li, Ying Shan, Chao Dong<br>
   Accepted at CVPR'23<br>
@@ -120,11 +115,6 @@ Super-resolution has applications in various domains such as surveillance, medic
   Accepted at NIPS'21 (spotlight)<br>
   :scroll:[`paper`](https://arxiv.org/abs/2108.01070) :computer:[`code`](https://github.com/TencentARC/FAIG)
 
-- RankSRGAN: Super Resolution Generative Adversarial Networks with Learning to Rank<br>
-  Wenlong Zhang, Yihao Liu, Chao Dong, Yu Qiao<br>
-  Accepted at TPAMI'21<br>
-  :scroll:[`paper`](https://arxiv.org/abs/1908.06382) :computer:[`code`](https://github.com/WenlongZhang0724/RankSRGAN)
-
 - Suppressing Model Overfitting for Image Super-Resolution Networks<br>
   Ruicheng Feng, Jinjin Gu, Yu Qiao, Chao Dong<br>
   Accepted at CVPRW'19<br>
@@ -135,22 +125,17 @@ Super-resolution has applications in various domains such as surveillance, medic
   Accepted at CVPR'19<br>
   :scroll:[`paper`](https://arxiv.org/abs/1904.03377)
 
-- ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks<br>
-  Xintao Wang, Ke Yu, Shixiang Wu, Jinjin Gu, Yihao Liu, Chao Dong, Yu Qiao, Chen Change Loy<br>
-  Accepted at ECCVW'18<br>
-  :scroll:[`paper`](https://arxiv.org/abs/1809.00219) :computer:[`code`](https://github.com/xinntao/ESRGAN)
-
-- Recovering Realistic Texture in Image Super-Resolution by Deep Spatial Feature Transform<br>
-  Accepted at CVPR'18<br>
-  Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy<br>
-  :scroll:[`paper`](https://arxiv.org/abs/1804.02815) :computer:[`code`](https://github.com/xinntao/SFTGAN)
-
 - Unsupervised Image Super-Resolution Using Cycle-in-Cycle Generative Adversarial Networks<br>
   Yuan Yuan, Siyuan Liu, Jiawei Zhang, Yongbing Zhang, Chao Dong, Liang Lin<br>
   Accepted at CVPRW'18<br>
   :scroll:[`paper`](https://arxiv.org/abs/1809.00437)
 
 ## Classic SR
+
+- Activating More Pixels in Image Super-Resolution Transformer<br>
+  Xiangyu Chen, Xintao Wang, Jiantao Zhou, Yu Qiao, Chao Dong<br>
+  Accepted at CVPR'23<br>
+  :scroll:[`paper`](https://arxiv.org/abs/2205.04437) :computer:[`code`](https://github.com/chxy95/HAT)
 
 - Efficient Image Super-Resolution using Vast-Receptive-Field Attention<br>
   Lin Zhou, Haoming Cai, Jinjin Gu, Zheyuan Li, Yingqi Liu, Xiangyu Chen, Yu Qiao, Chao Dong<br>
@@ -172,10 +157,25 @@ Super-resolution has applications in various domains such as surveillance, medic
   Accepted at CVPR'21<br>
   :scroll:[`paper`](https://arxiv.org/abs/2103.04039) :computer:[`code`](https://github.com/Xiangtaokong/ClassSR)
 
+- RankSRGAN: Super Resolution Generative Adversarial Networks with Learning to Rank<br>
+  Wenlong Zhang, Yihao Liu, Chao Dong, Yu Qiao<br>
+  Accepted at TPAMI'21<br>
+  :scroll:[`paper`](https://arxiv.org/abs/1908.06382) :computer:[`code`](https://github.com/WenlongZhang0724/RankSRGAN)
+
 - Efficient Image Super-Resolution Using Pixel Attention<br>
   Hengyuan Zhao, Xiangtao Kong, Jingwen He, Yu Qiao, Chao Dong<br>
   Accepted at ECCVW'20<br>
   :scroll:[`paper`](https://arxiv.org/abs/2010.01073) :computer:[`code`](https://github.com/zhaohengyuan1/PAN)
+
+- ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks<br>
+  Xintao Wang, Ke Yu, Shixiang Wu, Jinjin Gu, Yihao Liu, Chao Dong, Yu Qiao, Chen Change Loy<br>
+  Accepted at ECCVW'18<br>
+  :scroll:[`paper`](https://arxiv.org/abs/1809.00219) :computer:[`code`](https://github.com/xinntao/ESRGAN)
+
+- Recovering Realistic Texture in Image Super-Resolution by Deep Spatial Feature Transform<br>
+  Accepted at CVPR'18<br>
+  Xintao Wang, Ke Yu, Chao Dong, Chen Change Loy<br>
+  :scroll:[`paper`](https://arxiv.org/abs/1804.02815) :computer:[`code`](https://github.com/xinntao/SFTGAN)
 
 - Accelerating the Super-Resolution Convolutional Neural Network<br>
   Chao Dong, Chen Change Loy, Xiaoou Tang<br>
